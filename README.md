@@ -1,0 +1,1 @@
+# Digital-Precision-with-8x16-Multiplier-and-32-bit-Adder-for-Polynomial-Calculations
